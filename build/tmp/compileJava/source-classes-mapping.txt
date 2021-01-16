@@ -1,0 +1,28 @@
+com/senlainc/task4/Sentence.java
+ com.senlainc.task4.Sentence
+com/senlainc/task2/EuclidAlgorithm.java
+ com.senlainc.task2.EuclidAlgorithm
+com/senlainc/task6/Item.java
+ com.senlainc.task6.Item
+com/senlainc/task1/CheckNumber.java
+ com.senlainc.task1.CheckNumber
+com/senlainc/task6/BagAndItems.java
+ com.senlainc.task6.BagAndItems
+com/senlainc/task1/Number.java
+ com.senlainc.task1.Number
+com/senlainc/task4/Word.java
+ com.senlainc.task4.Word
+com/senlainc/task5/Palindrome.java
+ com.senlainc.task5.Palindrome
+com/senlainc/task6/Bag.java
+ com.senlainc.task6.Bag
+com/senlainc/task1/CompositeNumber.java
+ com.senlainc.task1.CompositeNumber
+com/senlainc/task4/CountWordInSentence.java
+ com.senlainc.task4.CountWordInSentence
+com/senlainc/task3/Sentence.java
+ com.senlainc.task3.Sentence
+com/senlainc/task3/SearchInSentence.java
+ com.senlainc.task3.SearchInSentence
+com/senlainc/task3/Word.java
+ com.senlainc.task3.Word
